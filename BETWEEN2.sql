@@ -1,0 +1,3 @@
+﻿SELECT *
+From sales.SalesPerson
+WHERE SalesQUOTA NOT BETWEEN 3900000 AND 4000000

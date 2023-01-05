@@ -1,0 +1,3 @@
+ALTER TABLE SOROUSH.TEACHER
+ADD Reshteh varchar(99),
+
